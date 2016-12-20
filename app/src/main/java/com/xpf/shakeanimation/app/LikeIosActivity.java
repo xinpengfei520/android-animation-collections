@@ -26,7 +26,7 @@ public class LikeIosActivity extends Activity {
     private GridViewAdapter adapter;
     private List<AppBean> apps;
     private Context mContext;
-    float mDensity;
+    private float mDensity;
     private String[] appNames = {"微信", "猫眼电影", "闪电资讯", "我的日历",
             "Facebook", "联系人", "电话", "日程表",
             "相机", "北京新闻", "P2P金融", "心动商城"};
