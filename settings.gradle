@@ -1,1 +1,1 @@
-include ':app', ':propertyanimation'
+include ':shakeanimation', ':propertyanimation'

@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/propertyanimation" />
+            <option value="$PROJECT_DIR$/shakeanimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
